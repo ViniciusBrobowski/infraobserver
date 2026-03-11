@@ -1,0 +1,17 @@
+# Secrets
+.env
+.msmtprc
+
+# Logs
+*.log
+cron.log
+*.txt
+
+# Arquivo temporários
+/tmp/
+logs/
+*.tar.gz
+*.gpg
+
+# Debug
+debug_*.txt
